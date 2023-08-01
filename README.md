@@ -24,7 +24,7 @@ The following  features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='["https://imgur.com/a/wIjTF73"](https://i.imgur.com/Sjp16A5.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/Sjp16A5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICE cap 
