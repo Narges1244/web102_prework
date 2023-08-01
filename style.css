@@ -17,10 +17,18 @@ body {
     margin-left: -10px;
     margin-right: -10px;
     margin-top: -10px;
+    justify-content: center;
 }
+
 
 .stats-container {
     display: flex;
+    cursor: pointer;
+    
+}
+.stats-card:hover{
+    box-shadow: 0 0 30px lightblue;
+
 }
 
 .stats-card {
@@ -64,12 +72,113 @@ body {
 
 #button-container {
     text-align: center;
+    
 }
 
-button {
+button{
     font-family: 'Cabin';
     border: none;
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+    cursor: pointer;
+    background-color: #FFFFFF;
 }
+button:hover{
+    background-color: #5bdceb;
+    color: #FFFFFF;
+}
+#searchResults {
+    margin-top: 20px; /* Adjust the top margin as needed */
+  }
+  
+  /* CSS for the search container */
+  .search-container {
+    display: flex;
+    justify-content: right;
+    align-items: right;
+  }
+  
+  /* CSS for the search form */
+  .search-container form {
+    display: flex;
+    align-items: right;
+  }
+  
+  /* CSS for the search input */
+  .search-container input[type="text"] {
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    outline: none;
+  }
+  
+  /* CSS for the search button */
+  .search-container button {
+    background-color: #0808f2;
+    color: #fff;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 0px;
+    margin-left:4px;
+    cursor: pointer;
+  }
+  
+  /* Styles on hover */
+  .search-container button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Styles on click */
+  .search-container button:active {
+    background-color: #004080;
+  }
+  
+  /* Styles for the search icon */
+  .search-container .fa-search {
+    font-size: 18px;
+  }
+  #searchResults {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+  
+  /* Styles for the search results text */
+  #searchResultsText {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(244, 237, 237);
+  }
+  .banner {
+    background-color: lightblue;
+    color:black;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  .banner p {
+    margin: 0;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .topnav {
+    overflow: hidden;
+    background-color: #e9e9e9;
+  }
+  .topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  #stats{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

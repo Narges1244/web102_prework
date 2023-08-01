@@ -8,6 +8,7 @@ const games = ` [
     "backers": 9,
     "img": "./assets/heroes_of_mythic_americas.png"
   },
+  
   {
     "name": "Cube Monster",
     "description": "Be the first champion to reach the top of Mount Kubia in a solo or competitive engine building strategy game",
