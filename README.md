@@ -24,7 +24,7 @@ The following  features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/Sjp16A5)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <iframe class="imgur-embed" width="100%" height="970" frameborder="0" src="https://i.imgur.com/Sjp16A5.gifv#embed"></iframe>
 
